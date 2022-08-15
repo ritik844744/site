@@ -1,0 +1,250 @@
+body{
+  background-color: #FDF5DF;
+  margin:0;
+  text-align: center;
+  font-family: 'Rubik Dirt', cursive;
+    }
+div{
+  margin-top:0;
+  position:relative;
+margin-bottom: 30px;}
+h1{
+  font-size:4rem;
+  line-height:1;
+  font-weight:600;
+  color:#94C973;
+
+  margin:0px auto 5px;
+  padding-top: 40px;
+}
+p{
+  font-size:2rem;
+  margin:2px auto 2px;
+  font-weight: 400;
+  color:#94C973;
+}
+
+.ritik{
+  border-radius:100%;
+  width:250px;
+  height:300px;
+}
+.cloud1{
+position:absolute;
+left:55px;
+top:40px;
+}
+.cloud2{
+  position:absolute;
+  top:40px;
+ left:830px;
+ padding:bottom:30px;
+}
+.cloud3{
+  margin:40px 480px 35px 30px;}
+.cloud4{
+  position:absolute;
+  bottom:335px;
+  right:200px;
+}
+.firstsection{
+  background-color:#E4F9F5;
+}
+span{
+  text-decoration: underline;
+}
+.hr1{
+  border-top-style:dotted;
+  border-top-width:7px;
+  border-color:#EAF6F6;
+  width:15%;
+  margin-top:60px;
+
+}
+.ritik{margin-top: 100px;}
+.name{
+  font-size: 3rem;
+  color:#66BFBF;
+  font-weight: 500;
+  font-family:sans-serif;
+  line-height: 2;
+  margin:bottom:30px;
+}
+.hello{
+  width:45%;
+  margin:auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: cursive;
+  margin-top: 30px;
+}
+.skills{
+  font-size: 3rem;
+  color:#66BFBF;
+  font-weight: 500;
+  font-family:sans-serif;
+  line-height: 2;
+  padding-bottom: 100px;
+}
+.python{
+  border-radius: 100%;
+  height:130px;
+  width:130px;
+  float:left;
+  margin-left: 230px;
+  text-align: center;
+}
+.skill1{
+  width:50%;
+
+  margin:auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: cursive;
+  line-height: 1.5;
+  color:black;
+  padding-bottom: 100px;
+
+}
+.pythonheading{
+  font-size: 2rem;
+  position:relative;
+  right:150px;
+  color:#66BFBF;
+  font-weight: 300;
+  bottom:20px;
+    font-family: cursive;
+}
+.webheading{
+  font-size: 2rem;
+
+  color:#66BFBF;
+  font-weight: 300;
+  bottom:20px;
+  font-family: cursive;
+
+}
+.skill2{
+  width:50%;
+
+  margin:auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: cursive;
+  margin-top: 20px;
+  color:black;
+  padding-bottom: 100px;
+  padding-top:30px;
+  line-height: 1.5;
+  }
+  .computer{
+    border-radius: 100%;
+    height:150px;
+    width:150px;
+    float:right;
+    margin-right: 200px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .head3{
+    font-size: 2rem;
+
+    color:#66BFBF;
+    font-weight: 300;
+
+    font-family: cursive;
+
+  }
+  .coca{
+    border-radius: 100%;
+    height:150px;
+    width:150px;
+    float:left;
+    margin-left: 230px;
+    text-align: center;
+    position:relative;
+    bottom:30px;
+  }
+.hr2{
+  border-top-style:dotted;
+  border-top-width:7px;
+  border-color:#EAF6F6;
+  width:15%;
+  position:relative;
+  bottom:35px;
+}
+.touch{
+  font-size: 3rem;
+  color:#66BFBF;
+  font-weight: 300;
+  bottom:20px;
+  font-family: cursive;
+}
+.r{
+  color:#66BFBF;
+  font-weight: normal;
+}
+.skill5{
+  margin:auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: cursive;
+  margin-top: 20px;
+  color:black;
+  padding-bottom: 100px;
+  padding-top:30px;
+  line-height: 1.5;
+}
+.btn {
+  background: #4ce3e3;
+  background-image: -webkit-linear-gradient(top, #4ce3e3, #4ce3e3);
+  background-image: -moz-linear-gradient(top,#4ce3e3, #4ce3e3);
+  background-image: -ms-linear-gradient(top, #4ce3e3, #4ce3e3);
+  background-image: -o-linear-gradient(top, #4ce3e3, #4ce3e3);
+  background-image: linear-gradient(to bottom, #4ce3e3, #4ce3e3);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 5px;
+  border: solid #4ce3e3 2px;
+  text-decoration: none;
+  position:relative;
+  bottom:60px;
+}
+
+.btn:hover {
+  background: #11999e;
+  background-image: -webkit-linear-gradient(top, #11999e, #11999e);
+  background-image: -moz-linear-gradient(top,#11999e,#11999e);
+  background-image: -ms-linear-gradient(top,#11999e,#11999e, #11999e);
+  background-image: linear-gradient(to bottom,#11999e,#11999ec);
+  text-decoration: none;
+}
+.footer-link{
+  font-size: 1rem;
+  font-family:cursive;
+  color:white;
+  display:inline-block;
+  width:80px;
+  text-decoration: none;
+}
+.footer-link:hover{color:black;
+
+}
+.bottom-container{
+  background-color: #4ce3e3;
+  margin:0;
+  padding-top:40px;
+  padding-bottom: 20px;
+}
+#ritik{
+  font-size: 0.7rem;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color:white;
+  font-family: sans-serif;
+
+}
